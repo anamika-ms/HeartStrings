@@ -33,7 +33,7 @@ OrganDonationHub enables a streamlined process for organ donation by incorporati
 - **Python and Django:** Developers can contribute to the project with a Python and Django development environment.
 
 ### Installation:
-1. Clone the repository: `git clone https://github.com/Anamika-Maker-Ctrl/OrganDonationProject.git`
+1. Clone the repository: `git clone https://github.com/anamika-ms/OrganDonationProject.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Django development server: `python manage.py runserver`
 
